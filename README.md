@@ -1,2 +1,2 @@
-# NPL_Project
+# NLP_Project
 Git rep for NLP Project, ENSAE 2022
