@@ -1,7 +1,12 @@
 Things to do
 
-Classification multiple
-Recourir a la fonction prediction de bert (et non a une méthode de classification)
+- Classification multiple
+
+
+- Recourir a la fonction prediction de bert (et non a une méthode de classification)
+- Rajouter les noms propres au voc de Bert
+- Entrainer Bert avec le nouveau voc
+- trouver comment prédire un mot dans un paragraphe avec un cache (ou plusieurs)
 
 
 
