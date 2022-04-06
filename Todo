@@ -1,13 +1,12 @@
 Things to do
-Tokenization of book 1 (then all the others)
-Buy book 1 in english for reference
 
-Things to think about:
-- Look at Visual Code to share coding project
-- Try different training/validation subsets: training only on books from
-the beginning and validating on the last ones (or vice-versa) or doing
-a mixture of both.
-- Understand why we have a very nice accuracy when predicting only Harry
-- Try and see if we can find which words in the context
-help the most to classify
+- Classification multiple
+
+
+- Recourir a la fonction prediction de bert (et non a une méthode de classification)
+- Rajouter les noms propres au voc de Bert
+- Entrainer Bert avec le nouveau voc
+- trouver comment prédire un mot dans un paragraphe avec un cache (ou plusieurs)
+
+
 
