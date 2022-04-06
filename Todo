@@ -1,4 +1,5 @@
 Things to do
+<<<<<<< HEAD
 Tokenization of book 1 (then all the others)
 Buy book 1 in english for reference
 
@@ -10,4 +11,12 @@ a mixture of both.
 - Understand why we have a very nice accuracy when predicting only Harry
 - Try and see if we can find which words in the context
 help the most to classify
+=======
+
+Classification multiple
+Recourir a la fonction prediction de bert (et non a une méthode de classification)
+
+
+
+>>>>>>> 0470075cfe8d2fe68b47a24076dc34f2e6a4561f
 
