@@ -1,1 +1,14 @@
+Files HX.txt (X = {1,7}) are the individual text files for each HP book
+
+File H_series is a concatenation of all HX.txt files. Be careful when 
+using it, the data is slightly modified. Hence, corrections are applied 
+at the beginning of each script using this file. 
+
+File book_labels.csv contains labels at the paragraph level to indicate
+to which book each paragraph belongs.
+
+special_data.txt contains H_series with all names replaced by a new
+token "charrofocus"
+
+
 
